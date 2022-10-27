@@ -1,0 +1,10 @@
+:root{
+    --deg: 10deg;
+}
+.iray {
+
+}
+
+.iray img{
+transform: rotate(var(--deg));
+}
